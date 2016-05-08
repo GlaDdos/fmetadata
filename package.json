@@ -1,0 +1,24 @@
+{
+  "name": "fmetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlaDdos/fmetadata.git"
+  },
+  "author": "GlaDdos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlaDdos/fmetadata/issues"
+  },
+  "homepage": "https://github.com/GlaDdos/fmetadata#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "multer": "^1.1.0"
+  }
+}
